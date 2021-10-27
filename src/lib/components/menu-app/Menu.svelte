@@ -171,6 +171,7 @@
     border-radius: 5px;
     background: var(--clr-trans-white);
     backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
     box-shadow: var(--default-shadow);
     transition: right 150ms;
     z-index: 99;
